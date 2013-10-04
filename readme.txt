@@ -1,7 +1,7 @@
 === IDS KS International Development Research Plugin ===
 Contributors: InstituteofDevelopmentStudies
 Tags: ids, import, research, international development
-Requires at least: 3.0.1
+Requires at least: 3.0
 Tested up to: 3.6.1
 Stable tag: 1
 License: GPLv2 or later
@@ -18,8 +18,8 @@ The IDS KS API plugin allows access to IDS Knowledge Services content of themati
 
 IDS Knowledge Services offer two collections that can be accessed via this plugin. They are:
 
-*BRIDGE is a research and information service supporting gender advocacy and mainstreaming efforts by bridging the gaps between theory, policy and practice. BRIDGE acts as a catalyst by facilitating the generation and exchange of relevant, accessible and diverse gender information in print, online and through other innovative forms of communication. BRIDGE hosts a global resources library on its website, which includes gender-focused information materials in a number of languages, including Arabic, Chinese, English, French, Portuguese and Spanish.
-*Eldis is an online information service covering development research on a wide change of thematic areas including agriculture, climate change, conflict, gender, governance, and health. Eldis includes over 32,000 summaries and links to free full-text research and policy documents from over 8,000 publishers. Each document is editorially selected by members of our team.
+* BRIDGE is a research and information service supporting gender advocacy and mainstreaming efforts by bridging the gaps between theory, policy and practice. BRIDGE acts as a catalyst by facilitating the generation and exchange of relevant, accessible and diverse gender information in print, online and through other innovative forms of communication. BRIDGE hosts a global resources library on its website, which includes gender-focused information materials in a number of languages, including Arabic, Chinese, English, French, Portuguese and Spanish.
+* Eldis is an online information service covering development research on a wide change of thematic areas including agriculture, climate change, conflict, gender, governance, and health. Eldis includes over 32,000 summaries and links to free full-text research and policy documents from over 8,000 publishers. Each document is editorially selected by members of our team.
 
 =What content can I get?=
 Documents are a wide range of online resources, primarily academic research, on development issues that are freely available online. 
@@ -30,9 +30,9 @@ Please note: currently there are no organisations in the BRIDGE dataset. Organis
 
 Countries are used to identify either:
 
-*which geographic area the research document covers
-*where the research was produced, based on the publisher country
-*the countries in which an organisation works
+* which geographic area the research document covers
+* where the research was produced, based on the publisher country
+* the countries in which an organisation works
 
 Regions are broad geographic groupings, which enable users to explore our documents and organisations by more than one country.
 
@@ -60,18 +60,18 @@ So, if you were the administrator of a website that highlighted recent research 
 == Installation ==
 
 **Automatic Install**
-1.Login to your WordPress site as an Administrator
-2.Navigate to Plugins->Add New from the menu on the left
-3.Search for *IDS KS International Development Research*
-4.Click "Install"
-5.Click "Activate Now"
-6.Apply for an [API key](http://api.ids.ac.uk/profiles/view) 
-7.Configure the plugin
+1. Login to your WordPress site as an Administrator
+2. Navigate to Plugins->Add New from the menu on the left
+3. Search for *IDS KS International Development Research*
+4. Click "Install"
+5. Click "Activate Now"
+6. Apply for an [API key](http://api.ids.ac.uk/profiles/view) 
+7. Configure the plugin
 
 **Manual Install**
-1.Download the plugin from the link in the top right corner
-2.Unzip the file, and upload the resulting "ids-ks-international-development-research-plugin" folder to your "/wp-content/plugins directory" as "/wp-content/plugins/ids-ks-international-development-research-plugin"
-3.Log into your WordPress install as an administrator, and navigate to the plugins screen from the left-hand menu
-4.Activate *IDS KS International Development Research Plugin*
-5.Apply for an [API key](http://api.ids.ac.uk/profiles/view) 
-6.Configure the plugin
+1. Download the plugin from the link in the top right corner
+2. Unzip the file, and upload the resulting "ids-ks-international-development-research-plugin" folder to your "/wp-content/plugins directory" as "/wp-content/plugins/ids-ks-international-development-research-plugin"
+3. Log into your WordPress install as an administrator, and navigate to the plugins screen from the left-hand menu
+4. Activate *IDS KS International Development Research Plugin*
+5. Apply for an [API key](http://api.ids.ac.uk/profiles/view) 
+6. Configure the plugin
