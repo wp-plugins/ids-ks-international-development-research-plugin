@@ -2,8 +2,8 @@
 Contributors: InstituteofDevelopmentStudies
 Tags: ids, import, research, international development
 Requires at least: 3.0
-Tested up to: 3.6.1
-Stable tag: 1.0
+Tested up to: 4.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -88,3 +88,14 @@ So, if you were the administrator of a website that highlighted recent research 
 5. Apply for an [API key](http://api.ids.ac.uk/profiles/view) 
 
 6. Configure the plugin
+
+== Changelog ==
+
+= 1.1 = 
+* Improvements to API wrapper and common files used in other IDS applications
+* Added import document types as taxonomies functionality
+* Improvements to category mappings
+* Bug fixes
+
+= 1.0 =
+* First commit
